@@ -1,2 +1,3 @@
-# ultra-ml-project-lyyp
-Automated issue comment bot repository
+# Ultra Ml Project Lyyp
+
+Automated issue comment bot repository.
